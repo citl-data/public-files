@@ -19,11 +19,11 @@
 .epub,application/epub+zip
 .gz,application/gzip
 .gif,image/gif
-".htm, .html",text/html
+.html,text/html
 .ico,image/vnd.microsoft.icon
 .ics,text/calendar
 .jar,application/java-archive
-".jpeg, .jpg",image/jpeg
+.jpg,image/jpeg
 .js,text/javascript
 .json,application/json
 .jsonld,application/ld+json
@@ -52,7 +52,7 @@
 .sh,application/x-sh
 .svg,image/svg+xml
 .tar,application/x-tar
-".tif, .tiff",image/tiff
+.tiff,image/tiff
 .ts,video/mp2t
 .ttf,font/ttf
 .txt,text/plain
