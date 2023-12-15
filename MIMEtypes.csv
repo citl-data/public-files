@@ -14,7 +14,6 @@ Extension,MIMEType
 .css,text/css
 .csv,text/csv
 .doc,application/msword
-.docx,application/vnd.openxmlformats-officedocument.word
 .docx,application/vnd.openxmlformats-officedocument.wordprocessingml.document
 .eot,application/vnd.ms-fontobject
 .epub,application/epub+zip
